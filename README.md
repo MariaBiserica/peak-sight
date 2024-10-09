@@ -1,0 +1,1 @@
+# quality-estimation-and-editing-of-digital-images
