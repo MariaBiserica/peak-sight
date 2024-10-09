@@ -1,5 +1,4 @@
 # peak-sight
-PeakSight: Digital Image Quality Assessment and Editing
 Welcome to PeakSight, a digital image quality assessment and editing platform. This repository serves as a hub for accessing both the frontend and backend components of the project. By leveraging machine learning and advanced no-reference image quality assessment (NR-IQA) algorithms, PeakSight evaluates and enhances image quality across various platforms.
 
 ## Project Objectives
